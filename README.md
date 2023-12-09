@@ -2,7 +2,9 @@
 
 Este é um exemplo de banco de dados para uma oficina automotiva, projetado para armazenar informações sobre clientes, veículos, serviços, mecânicos, peças, fornecedores e histórico de serviços realizados.
 
-## Tabelas
+![Modelo Entidade-Relacionamento](./er_img/oficina_er.PNG)
+
+## Tabelas no arquivo sql
 
 1. **clients:** Armazena informações sobre os clientes da oficina.
 2. **vehicle:** Contém detalhes sobre os veículos associados aos clientes.
