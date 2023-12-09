@@ -17,6 +17,19 @@ Este é um exemplo de banco de dados para uma oficina automotiva, projetado para
 9. **parts_storage:** Registra o estoque de peças disponíveis na oficina.
 10. **supplier:** Armazena informações sobre os fornecedores de peças.
 
+## Como Utilizar o Database
+
+### Pré-requisitos
+
+- Certifique-se de ter um ambiente MySQL configurado e pronto para uso.
+
+### Utilizando os arquivos
+
+1. Faça o download dos arquivos localizados na pasta "arquivos_sql" ou clone este repositório em sua maquina.
+2. Se estiver com o ambiente MySQL configurado e pronto para ser utilizado, siga as seguintes etapas:
+   - execute o arquivo oficina.sql e de run em todas tas linhas para criar as tabelas;
+   - depois execute o arquivo oficina_data.sql e novamente de run em todas as linhas para preencher o banco com os dados;
+   - lembre-se de apagar as queries já existentes para caso você queira realizar as suas próprias queries.
 
 ## Notas
 
